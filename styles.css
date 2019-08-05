@@ -6,6 +6,7 @@ h1, h3, p, a{
 body {
 	text-align: center;
 	background: black;
+	font-family: Raleway, Helvetica, Arial, sans-serif;
 }
 
 p:hover, h1:hover, h3:hover {
